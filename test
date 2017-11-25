@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>标签内引入</title>
+</head>
+<body>
+	<!-- 第一种方式:标签内引入 -->
+	<p style="color:red;font-size:30px;background-color:yellow;">我叫王哲林</p>
+	<p>我叫贝贝</p>
+</body>
+</html>
